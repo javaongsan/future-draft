@@ -196,7 +196,6 @@ class Future_Draft_Admin {
 
 		  	$meta = get_post($id);
 
-		  	error_log(print_r($meta, true));
 			// Duplicate post and set as a draft
 			$draftPost = array(
 			  'menu_order' => $meta->menu_order,
