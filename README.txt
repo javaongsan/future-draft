@@ -1,7 +1,7 @@
 === Future Draft ===
 Contributors: wizcoder
 Donate link: http://imakeplugins.com
-Tags: post, draft
+Tags: post, posts, draft, clone, copy, duplicate post, duplicate, duplication
 Requires at least: 4.5
 Tested up to: 4.7.4
 Stable tag: 1.0.1
