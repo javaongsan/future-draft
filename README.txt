@@ -3,16 +3,19 @@ Contributors: wizcoder
 Donate link: http://imakeplugins.com
 Tags: post, draft
 Requires at least: 4.5
-Tested up to: 4.7
-Stable tag: 1.0.0
+Tested up to: 4.7.4
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A plugin to create draft and link all draft in one screen.
+This plugin allows users to clone posts of any type, or copy them to new drafts for further editing and link all draft in one screen.
 
 == Description ==
 
-Create a unlimted draft based on an existing post. Click on the star tab to create a new draft, all the content will be duplicated to the new draft.
+Clone and copy an unlimited draft based on an existing post. Click on the star tab to create a new draft, all the content will be duplicated to the new draft.
+All draft are linked to the original post on one screen for easy editing.
+
+[youtube https://youtu.be/ogmD-j3VCUQ]
 
 == Installation ==
 
