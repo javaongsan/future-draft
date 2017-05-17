@@ -1,9 +1,9 @@
 === Future Draft ===
 Contributors: wizcoder
-Donate link: http://imakeplugins.com
+Donate link: https://goo.gl/F7TLZr
 Tags: post, posts, draft, clone, copy, duplicate post, duplicate, duplication
 Requires at least: 4.5
-Tested up to: 4.7.4
+Tested up to: 4.7.5
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
