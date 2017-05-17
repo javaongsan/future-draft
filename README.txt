@@ -4,7 +4,7 @@ Donate link: https://goo.gl/F7TLZr
 Tags: post, posts, draft, clone, copy, duplicate post, duplicate, duplication
 Requires at least: 4.5
 Tested up to: 4.7.5
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,7 +42,7 @@ Before there was a filter 'tabify_plugin_support' which still exists but shouldn
 
 == Screenshots ==
 
-1. Draft created using existing post..
+1. Draft created using existing post.
 
 == Changelog ==
 
